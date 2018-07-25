@@ -1,0 +1,1 @@
+DROP TABLE z_lab_dia_hive_temp.hmz_flt_casclient;
